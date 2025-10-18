@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navs42&label=Profile%20views&color=0e75b6&style=flat" alt="navs42" /> </p>
 
-- 🔭 I’m currently working on **Reach+ (Gamification app for PWDs)**
+- 🔭 I’m currently working on **Projects that solve real world problems**
 
 - 🌱 I’m currently learning **Frameworks: JavaScript,React.js,React Native. Iot Edge Platforms:Azure IoT hub, AWS IoT platform**
 
